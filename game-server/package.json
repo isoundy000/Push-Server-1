@@ -1,0 +1,12 @@
+{
+	"name": "push-server",
+	"version": "0.0.1",
+	"private": false,
+	"dependencies": {
+		"pomelo": "~1.0.0",
+		"crc": "0.2.0",
+        "redis": "*",
+        "pomelo-globalchannel-plugin":"*",
+        "pomelo-status-plugin":"*"
+	}
+}

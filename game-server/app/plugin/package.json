@@ -1,0 +1,9 @@
+{
+	"name": "plugin",
+	"version": "0.0.1",
+	"private": false,
+    "dependencies": {
+        "redis": "0.10.0",
+        "pomelo-logger": "0.1.5"
+    }
+}
